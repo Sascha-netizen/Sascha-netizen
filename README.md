@@ -31,7 +31,7 @@ My interests sit at the intersection of literature, critical theory, and technol
 
 | 💻 I code | 📚 I teach | 🔬 I research |
 |---|---|---|
-| Studying for a Diploma in Software Development at Code Institute. Building my first full-stack projects. | High school English at Waldorf School Darmstadt. IB & AP trained. 10+ years in international schools. | Published scholar in postcolonial theory and English travel writing. Active public writer on politics and culture. |
+| Studying for a Diploma in Software Development at Code Institute. Building my full-stack projects. | High school English at Waldorf School Darmstadt. IB & AP trained. 10+ years in international schools. | Published scholar in postcolonial theory and English travel writing. Active public writer on politics and culture. |
 
 ---
 
