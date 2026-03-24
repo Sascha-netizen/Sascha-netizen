@@ -57,7 +57,7 @@ My interests sit at the intersection of literature, critical theory, and technol
 ## What am I interested in?
 
 **Development**
-`backend development` `Django & Python` `REST APIs` `internationalisation (i18n)`
+`backend development` `Django & Python` `internationalisation (i18n)`
 
 **Education & Technology**
 `ed-tech` `technology-based instruction` `AI in education` `learning management systems` `open badges` `neuroscience of literacy`
