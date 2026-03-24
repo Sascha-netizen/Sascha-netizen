@@ -3,7 +3,7 @@
 [![My Badge](https://badges.parchment.eu/public/assertions/s9Ccj8MzREaBZZz7nqHthw/image)](https://api.eu.badgr.io/public/assertions/s9Ccj8MzREaBZZz7nqHthw)
 
 
-# Dr Sascha R. Klement
+# Sascha R. Klement
 
 ### Junior Backend Developer (Python/Django) · Educator · Researcher
 
