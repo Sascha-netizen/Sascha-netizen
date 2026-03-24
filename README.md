@@ -76,7 +76,7 @@ Frontend-focused project demonstrating responsive design principles.
 
 | 💻 Development | 📚 Education | 🔬 Research |
 |---|---|---|
-| Building full-stack applications using Django, with a focus on backend logic, REST-ready architecture, and relational data modelling. | High school English teacher (IB & AP), 10+ years international experience. | Published scholar in postcolonial theory and travel writing. |
+| Building full-stack applications using Django, with a focus on backend logic, and relational data modelling. | High school English teacher (IB & AP), 10+ years international experience. | Published scholar in postcolonial theory and travel writing. |
 
 ---
 
