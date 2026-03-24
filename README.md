@@ -19,48 +19,62 @@
 
 ---
 
-## `$ whoami`
-```text
-dr-sascha-klement — scholar turned developer
+## Who am I?
 
-📖  teaching English at Waldorf School, Darmstadt
-💻  studying: Diploma in Software Development @ Code Institute
-🔨  building: first full-stack projects
-```
+I'm a German-based educator, literary scholar, and developer in training. I hold a PhD in English Literature from the University of Exeter and have spent over a decade teaching in international schools across Egypt and Germany. I'm currently an English teacher at Waldorf School Darmstadt and a full-time student of software development at Code Institute, Dublin.
 
-## `$ git log --oneline`
-```text
-abc1234  enrolled: diploma in software development, CI
-def5678  earned: ai educator certification (levels 1 & 2)
-ghi9012  completed: 5-day coding challenge, CI
-jkl3456  published: monograph, transcript verlag, 2021
-```
+My interests sit at the intersection of literature, critical theory, and technology — with a growing focus on how digital tools can transform education.
 
 ---
 
-## Currently building
+## What do I do?
 
-| 💻 CI Student | 📚 Educator | 🔬 Scholar |
+| 💻 I code | 📚 I teach | 🔬 I research |
 |---|---|---|
-| Diploma in Software Dev. HTML, CSS, JS, Python — with ed-tech in mind. | High school English at Waldorf School Darmstadt. IB & AP trained. | Published in postcolonial theory & travel writing. Active public writer. |
+| Studying for a Diploma in Software Development at Code Institute. Building my first full-stack projects. | High school English at Waldorf School Darmstadt. IB & AP trained. 10+ years in international schools. | Published scholar in postcolonial theory and English travel writing. Active public writer on politics and culture. |
 
 ---
 
-## Skills in progress
+## What languages do I speak?
 
-| Skill | Progress |
+| Language | Level |
 |---|---|
-| HTML / CSS | ████████████░░░░░ 72% |
-| JavaScript | ████████░░░░░░░░░ 50% |
-| Python | ██████░░░░░░░░░░░ 38% |
-| Git | █████████░░░░░░░░ 60% |
+| 🇬🇧 English | Native |
+| 🇩🇪 German | Native |
+| 🇸🇦 Arabic | Conversational |
+| 🏛️ Latin | Academic reading proficiency |
 
 ---
 
-## Tech interests
+## What am I learning?
 
-`ed-tech` `AI in education` `developer tooling` `neuroscience of literacy` `open badges` `learning systems`
+`HTML` `CSS` `JavaScript` `Python` `Django` `Git`
+
+> 🐍 **Django** — my framework of choice for building robust, scalable web applications.
 
 ---
 
-📍 Darmstadt, DE · 📬 sascha.r.klement@gmail.com
+## What am I interested in?
+
+**Development**
+`backend development` `Django & Python` `REST APIs` `internationalisation (i18n)`
+
+**Education & Technology**
+`ed-tech` `technology-based instruction` `AI in education` `learning management systems` `open badges` `neuroscience of literacy`
+
+**Research**
+`postcolonial theory` `critical theory` `travel writing` `digital humanities`
+
+---
+
+## Where have I been?
+
+- 🎓 PhD, University of Exeter (2013)
+- 📖 Published monograph, Transcript Verlag (2021)
+- 🌍 Taught in Cairo, Egypt (2014–2024)
+- 🤖 AI Educator Certification, Levels 1 & 2 (2024)
+- 💻 Enrolled: Diploma in Software Development, Code Institute (2025)
+
+---
+
+📍 Darmstadt, Germany · 📬 sascha.r.klement@gmail.com
