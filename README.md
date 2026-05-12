@@ -26,6 +26,8 @@ Tech: Python, Django, Stripe
 Features: Compatibility algorithm, subscription model, Islamic profile fields
 Focus: Data-driven matchmaking, e-commerce, cultural sensitivity
 
+---
+
 ### 🗓️ [School Scheduling System](https://github.com/Sascha-netizen/school_scheduling)
 A practical scheduling solution for educational environments, reflecting real-world institutional needs.
 
