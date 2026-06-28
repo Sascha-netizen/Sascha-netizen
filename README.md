@@ -1,11 +1,12 @@
-[![My Badge](https://badges.parchment.eu/public/assertions/s9Ccj8MzREaBZZz7nqHthw/image)](https://api.eu.badgr.io/public/assertions/s9Ccj8MzREaBZZz7nqHthw)
+![CI Diploma](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/186480064)
 
+[![My Badge](https://badges.parchment.eu/public/assertions/s9Ccj8MzREaBZZz7nqHthw/image)](https://api.eu.badgr.io/public/assertions/s9Ccj8MzREaBZZz7nqHthw)
 
 # Sascha R. Klement
 
-### Junior Backend Developer (Python/Django) · Educator · Researcher
+### Full Stack Developer (Python/Django) · Educator · Researcher
 
-![Student @ Code Institute](https://img.shields.io/badge/Student-Code_Institute-E6F1FB?style=flat&labelColor=185FA5&color=85B7EB)
+![Alumni @ Code Institute](https://img.shields.io/badge/Alumni-Code_Institute-E6F1FB?style=flat&labelColor=185FA5&color=85B7EB)
 ![Waldorf School Darmstadt](https://img.shields.io/badge/English_Teacher-Waldorf_School_Darmstadt-E1F5EE?style=flat&labelColor=0F6E56&color=5DCAA5)
 ![AI Educator](https://img.shields.io/badge/AI_Educator_Certified-EAF3DE?style=flat&labelColor=3B6D11&color=97C459)
 ![PhD Exeter](https://img.shields.io/badge/PhD-Exeter-EEEDFE?style=flat&labelColor=3C3489&color=AFA9EC)
@@ -33,7 +34,7 @@ A practical scheduling solution for educational environments, reflecting real-wo
 
 **Tech:** Python, Django, HTML/CSS  
 **Focus:** Data modelling, scheduling logic, user workflows  
-**Why it matters:** School scheduling is a known complex domain involving constraints and optimisation :contentReference[oaicite:0]{index=0}
+**Why it matters:** School scheduling is a known complex domain involving constraints and optimisation
 
 ---
 
@@ -89,7 +90,7 @@ Frontend-focused project demonstrating responsive design principles.
 
 ## 👨‍💻 Who I Am
 
-I am a German-based educator and researcher transitioning into software development, currently training in full-stack development with a focus on **Python and Django**.
+I am a German-based educator and researcher who has completed a Diploma in Full Stack Software Development, with a focus on **Python and Django**.
 
 With a PhD in English Literature (University of Exeter) and over a decade of international teaching experience, I bring strong analytical thinking, long-form project management, and communication skills into my work as a developer.
 
@@ -131,9 +132,9 @@ My current focus is on building **robust backend systems**, particularly in educ
 
 ---
 
-## 🎯 What I’m Looking For
+## 🎯 What I'm Looking For
 
-Junior Backend Developer role (Python/Django), ideally in:
+Full Stack Developer role (Python/Django), ideally in:
 - EdTech
 - AI-driven applications
 - International or mission-driven teams
@@ -146,7 +147,7 @@ Junior Backend Developer role (Python/Django), ideally in:
 - 📖 Published monograph (Transcript Verlag, 2021)  
 - 🌍 10+ years teaching (Egypt & Germany)  
 - 🤖 AI Educator Certification (2024)  
-- 💻 Diploma in Software Development (Code Institute, ongoing)  
+- 💻 Diploma in Full Stack Software Development (Code Institute, Merit, 2026)  
 
 ---
 
