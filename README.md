@@ -119,7 +119,7 @@ I'm a Python/Django developer with a background in education and academic resear
 
 | Language | Level |
 |---|---|
-| 🇬🇧 English | Native or bilingual |
+| 🇬🇧 English | Native |
 | 🇩🇪 German | Native |
 | 🇸🇦 Arabic | Conversational |
 | 🏛️ Latin | Reading knowledge |
