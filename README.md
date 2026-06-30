@@ -36,11 +36,13 @@ A faith-centred, full-stack e-commerce application for European Muslims, built a
 ### PP4 — TaleemTime: Full-Stack Toolkit (Django)
 *Full-Stack Toolkit Project*
 
-**Tech:** Python, Django
-**Features:** [add features]
-**Focus:** [add focus]
+A conflict-aware school scheduling system built from direct professional experience as an international teacher in Egypt, addressing the real-world problem of manual, error-prone timetabling in schools without access to enterprise software.
 
-[View repo →](https://github.com/Sascha-netizen/[repo-name])
+**Tech:** Python, Django, PostgreSQL, JavaScript, HTML/CSS
+**Features:** Role-based access (secretary/teacher), database-level double-booking prevention, CSV export, automated test suite (22 tests)
+**Focus:** Relational data modelling, role-based access control, defensive validation
+
+[View repo →](https://github.com/Sascha-netizen/school_scheduling)
 
 ---
 
