@@ -4,7 +4,7 @@
 
 # Sascha R. Klement
 
-### Full Stack Developer (Python/Django) · Educator · Researcher
+### Backend-Focused Python/Django Developer · Educator · Researcher
 
 ![Alumni @ Code Institute](https://img.shields.io/badge/Alumni-Code_Institute-E6F1FB?style=flat&labelColor=185FA5&color=85B7EB)
 ![Waldorf School Darmstadt](https://img.shields.io/badge/English_Teacher-Waldorf_School_Darmstadt-E1F5EE?style=flat&labelColor=0F6E56&color=5DCAA5)
@@ -23,7 +23,7 @@
 ### 🕌 PP5 — Sakina: Data-Driven Matchmaking Platform with Custom Compatibility Algorithm
 *Specialisation Project*
 
-A faith-centred, full-stack e-commerce application for European Muslims, built around a custom-weighted compatibility algorithm rather than a templated matching system.
+A Django-based matchmaking platform featuring a custom weighted compatibility algorithm, subscription billing, and secure messaging for a European Muslim audience.
 
 **Tech:** Python, Django, PostgreSQL, Stripe, AWS S3
 **Features:** Weighted compatibility matching algorithm, subscription billing, automated tests, messaging system, S3 media storage
@@ -105,7 +105,7 @@ I'm a Python/Django developer with a background in education and academic resear
 ## 🌍 Interests
 
 **Development**
-`backend architecture` `REST APIs` `testing` `database design` `internationalisation` `accessibility` `technical documentation/technical writing`
+`backend architecture` `REST APIs` `testing` `database design` `internationalisation` `accessibility` `software architecture` `technical documentation/technical writing`
 
 **Education & Technology**
 `ed-tech` `AI in education` `learning systems` `digital pedagogy`
@@ -119,10 +119,10 @@ I'm a Python/Django developer with a background in education and academic resear
 
 | Language | Level |
 |---|---|
-| 🇬🇧 English | Native |
+| 🇬🇧 English | Native or bilingual |
 | 🇩🇪 German | Native |
 | 🇸🇦 Arabic | Conversational |
-| 🏛️ Latin | Academic reading |
+| 🏛️ Latin | Reading knowledge |
 
 ---
 
@@ -149,4 +149,4 @@ Full Stack Developer role (Python/Django), ideally in:
 
 📍 Darmstadt, Germany
 📬 sascha.r.klement@gmail.com
-🔗 GitHub: https://github.com/Sascha-netizen
+🔗 [github.com/Sascha-netizen](https://github.com/Sascha-netizen)
