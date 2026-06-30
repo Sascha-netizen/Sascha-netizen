@@ -4,7 +4,7 @@
 
 # Sascha R. Klement
 
-### Backend-Focused Python/Django Developer · Educator · Researcher
+### Backend-Focussed Python/Django Developer · Educator · Researcher
 
 ![Alumni @ Code Institute](https://img.shields.io/badge/Alumni-Code_Institute-E6F1FB?style=flat&labelColor=185FA5&color=85B7EB)
 ![Waldorf School Darmstadt](https://img.shields.io/badge/English_Teacher-Waldorf_School_Darmstadt-E1F5EE?style=flat&labelColor=0F6E56&color=5DCAA5)
@@ -111,7 +111,7 @@ I'm a Python/Django developer with a background in education and academic resear
 `ed-tech` `AI in education` `learning systems` `digital pedagogy`
 
 **Research**
-`critical theory` `postcolonial studies` `digital humanities` 
+`critical theory` `postcolonial studies` `digital humanities`
 
 ---
 
