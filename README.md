@@ -18,65 +18,61 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects (PP1–PP5)
 
-## 🕌 [Sakina Matchmaking](https://github.com/Sascha-netizen/sakina_matchmaking)
-Faith-centred, data-driven Muslim matrimonial platform for European Muslims.
+### 🕌 PP5 — Sakina: Data-Driven Matchmaking Platform with Custom Compatibility Algorithm
+*Specialisation Project*
 
-Tech: Python, Django, Stripe
-Features: Compatibility algorithm, subscription model, Islamic profile fields
-Focus: Data-driven matchmaking, e-commerce, cultural sensitivity
+A faith-centred, full-stack e-commerce application for European Muslims, built around a custom-weighted compatibility algorithm rather than a templated matching system.
 
----
+**Tech:** Python, Django, PostgreSQL, Stripe, AWS S3
+**Features:** Weighted compatibility matching algorithm, subscription billing, automated tests, messaging system, S3 media storage
+**Focus:** Algorithm design, e-commerce logic, data modelling, cultural sensitivity
 
-### 🗓️ [School Scheduling System](https://github.com/Sascha-netizen/school_scheduling)
-A practical scheduling solution for educational environments, reflecting real-world institutional needs.
-
-**Tech:** Python, Django, HTML/CSS  
-**Focus:** Data modelling, scheduling logic, user workflows  
-**Why it matters:** School scheduling is a known complex domain involving constraints and optimisation
+[View repo →](https://github.com/Sascha-netizen/sakina_matchmaking)
 
 ---
 
-### 📦 [School Inventory Management](https://github.com/Sascha-netizen/school-inventory)
+### PP4 — TaleemTime: Full-Stack Toolkit (Django)
+*Full-Stack Toolkit Project*
+
+**Tech:** Python, Django
+**Features:** [add features]
+**Focus:** [add focus]
+
+[View repo →](https://github.com/Sascha-netizen/[repo-name])
+
+---
+
+### 📦 PP3 — School Inventory Management
 Inventory tracking system for managing school resources and assets.
 
-**Tech:** Python, Django  
-**Features:** CRUD operations, structured data handling, admin interface  
+**Tech:** Python, Django
+**Features:** CRUD operations, structured data handling, admin interface
 **Use case:** Internal tooling for educational institutions
 
----
-
-### 👗 [Abeer Seamstress](https://github.com/Sascha-netizen/abeer-seamstress)
-Full-stack web application for a small business.
-
-**Tech:** Django, JavaScript, HTML/CSS  
-**Features:** Product display, business logic, responsive UI  
-**Focus:** Real-world client-oriented development
+[View repo →](https://github.com/Sascha-netizen/school-inventory)
 
 ---
 
-### 🛍️ [Boutique Ado v1](https://github.com/Sascha-netizen/boutique_ado_v1)
-E-commerce prototype with core shopping functionality.
-
-**Tech:** Django, Python  
-**Features:** Product management, shopping flow, backend logic
-
----
-
-### 🕌 [99 Names of Allah](https://github.com/Sascha-netizen/99-names-of-allah)
+### 🕌 PP2 — 99 Names of Allah
 Content-driven application combining structured data with cultural/religious content.
 
-**Tech:** Python, Django  
-**Focus:** Data presentation, internationalisation potential
+**Tech:** HTML, CSS, JavaScript
+**Focus:** Data presentation, interactivity, internationalisation potential
+
+[View repo →](https://github.com/Sascha-netizen/99-names-of-allah)
 
 ---
 
-### 🏃 [Love Running](https://github.com/Sascha-netizen/love-running)
-Frontend-focused project demonstrating responsive design principles.
+### 👗 PP1 — Abeer Seamstress
+Full-stack frontend foundation project for a small business.
 
-**Tech:** HTML, CSS  
-**Focus:** Layout, accessibility, UI fundamentals
+**Tech:** HTML, CSS
+**Features:** Product display, responsive UI
+**Focus:** Layout fundamentals, client-oriented design
+
+[View repo →](https://github.com/Sascha-netizen/abeer-seamstress)
 
 ---
 
@@ -102,9 +98,9 @@ My current focus is on building **robust backend systems**, particularly in educ
 
 `Python` `Django` `JavaScript` `HTML` `CSS` `Git`
 
-- Building full-stack web applications with Django  
-- Working with relational databases and structured data  
-- Developing scalable backend logic and clean project architecture  
+- Building full-stack web applications with Django
+- Working with relational databases and structured data
+- Developing scalable backend logic and clean project architecture
 
 ---
 
@@ -143,16 +139,16 @@ Full Stack Developer role (Python/Django), ideally in:
 
 ## 📍 Background
 
-- 🎓 PhD, University of Exeter  
-- 📖 Published monograph (Transcript Verlag, 2021)  
-- 🌍 10+ years teaching (Egypt & Germany)  
-- 🤖 AI Educator Certification (2024)  
-- 💻 Diploma in Full Stack Software Development (Code Institute, Merit, 2026)  
+- 🎓 PhD, University of Exeter
+- 📖 Published monograph (Transcript Verlag, 2021)
+- 🌍 10+ years teaching (Egypt & Germany)
+- 🤖 AI Educator Certification (2024)
+- 💻 Diploma in Full Stack Software Development (Code Institute, Merit, 2026)
 
 ---
 
 ## 📫 Contact
 
-📍 Darmstadt, Germany  
-📬 sascha.r.klement@gmail.com  
+📍 Darmstadt, Germany
+📬 sascha.r.klement@gmail.com
 🔗 GitHub: https://github.com/Sascha-netizen
