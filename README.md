@@ -88,17 +88,13 @@ Full-stack frontend foundation project for a small business.
 
 ## 👨‍💻 Who I Am
 
-I am a German-based educator and researcher who has completed a Diploma in Full Stack Software Development, with a focus on **Python and Django**.
-
-With a PhD in English Literature (University of Exeter) and over a decade of international teaching experience, I bring strong analytical thinking, long-form project management, and communication skills into my work as a developer.
-
-My current focus is on building **robust backend systems**, particularly in educational and content-driven domains.
+I'm a Python/Django developer with a background in education and academic research. After completing a Diploma in Full Stack Software Development (Merit), I now build full-stack applications with a focus on backend architecture, relational data modelling, and maintainable software.
 
 ---
 
 ## 🛠 Tech Stack
 
-`Python` `Django` `JavaScript` `HTML` `CSS` `Git`
+`Python` `Django` `PostgreSQL` `JavaScript` `HTML` `CSS` `Git` `AWS S3` `Stripe`
 
 - Building full-stack web applications with Django
 - Working with relational databases and structured data
@@ -109,13 +105,13 @@ My current focus is on building **robust backend systems**, particularly in educ
 ## 🌍 Interests
 
 **Development**
-`backend development` `Django` `REST APIs` `i18n`
+`backend architecture` `REST APIs` `testing` `database design` `internationalisation` `accessibility` `technical documentation/technical writing`
 
 **Education & Technology**
 `ed-tech` `AI in education` `learning systems` `digital pedagogy`
 
 **Research**
-`critical theory` `postcolonial studies` `digital humanities`
+`critical theory` `postcolonial studies` `digital humanities` `R and RStudio`
 
 ---
 
@@ -141,11 +137,11 @@ Full Stack Developer role (Python/Django), ideally in:
 
 ## 📍 Background
 
-- 🎓 PhD, University of Exeter
-- 📖 Published monograph (Transcript Verlag, 2021)
-- 🌍 10+ years teaching (Egypt & Germany)
-- 🤖 AI Educator Certification (2024)
 - 💻 Diploma in Full Stack Software Development (Code Institute, Merit, 2026)
+- 🎓 PhD, University of Exeter
+- 📖 Published author (monograph, Transcript Verlag, 2021)
+- 🌍 10+ years international teaching (Egypt & Germany)
+- 🤖 AI Educator Certification (2024)
 
 ---
 
