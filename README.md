@@ -94,7 +94,7 @@ I'm a Python/Django developer with a background in education and academic resear
 
 ## 🛠 Tech Stack
 
-`Python` `Django` `PostgreSQL` `JavaScript` `HTML` `CSS` `Git` `AWS S3` `Stripe`
+`Python` `Django` `PostgreSQL` `JavaScript` `HTML` `CSS` `Git` `AWS S3` `Stripe` `R/RStudio`
 
 - Building full-stack web applications with Django
 - Working with relational databases and structured data
@@ -111,7 +111,7 @@ I'm a Python/Django developer with a background in education and academic resear
 `ed-tech` `AI in education` `learning systems` `digital pedagogy`
 
 **Research**
-`critical theory` `postcolonial studies` `digital humanities` `R and RStudio`
+`critical theory` `postcolonial studies` `digital humanities` 
 
 ---
 
