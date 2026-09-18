@@ -4,8 +4,8 @@
 
 | Event | Result |
 |---|---|
-| 🎄 [Festive Front-End Hackathon 2025](https://api.eu.badgr.io/public/assertions/s9Ccj8MzREaBZZz7nqHthw) | Participant |
 | 🚀 [FES Hackathon](https://hackathon.fes-frankfurt.de/) — Team 5 | 🥉 3rd Place |
+| 🎄 [Festive Front-End Hackathon 2025](https://api.eu.badgr.io/public/assertions/s9Ccj8MzREaBZZz7nqHthw) | 🥉 3rd Place |
 
 [![My Badge](https://badges.parchment.eu/public/assertions/s9Ccj8MzREaBZZz7nqHthw/image)](https://api.eu.badgr.io/public/assertions/s9Ccj8MzREaBZZz7nqHthw)
 
