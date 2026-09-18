@@ -1,5 +1,9 @@
 ![CI Diploma](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/186480064)
 
+I was on Team 5 at the FES Hackathon, where we placed 3rd.
+
+Festive Front-End Hackathon 2025
+
 [![My Badge](https://badges.parchment.eu/public/assertions/s9Ccj8MzREaBZZz7nqHthw/image)](https://api.eu.badgr.io/public/assertions/s9Ccj8MzREaBZZz7nqHthw)
 
 # Sascha R. Klement
