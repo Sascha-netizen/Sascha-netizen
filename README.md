@@ -19,12 +19,6 @@
 
 <img src="https://github.com/user-attachments/assets/974b1c51-d060-4004-a59b-0ddc96b888fa" width="220" alt="React Foundations for Next.js certificate">
 
-<img width="6815" height="4149" alt="react-foundations-certificate-1" src="https://github.com/user-attachments/assets/974b1c51-d060-4004-a59b-0ddc96b888fa" />
-
-
-
-
-
 # Sascha R. Klement
 
 ### Backend-Focussed Python/Django Developer · Educator · Researcher
