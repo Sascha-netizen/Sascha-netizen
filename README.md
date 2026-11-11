@@ -11,6 +11,20 @@
 
 [![Festive Front-End Hackathon 2025, 3rd place badge](https://badges.parchment.eu/public/assertions/s9Ccj8MzREaBZZz7nqHthw/image)](https://api.eu.badgr.io/public/assertions/s9Ccj8MzREaBZZz7nqHthw)
 
+### 📜 Certificates
+
+| Course | Issuer | Date |
+|---|---|---|
+| React Foundations for Next.js | Vercel | Nov 2026 |
+
+<img src="https://github.com/user-attachments/assets/974b1c51-d060-4004-a59b-0ddc96b888fa" width="220" alt="React Foundations for Next.js certificate">
+
+<img width="6815" height="4149" alt="react-foundations-certificate-1" src="https://github.com/user-attachments/assets/974b1c51-d060-4004-a59b-0ddc96b888fa" />
+
+
+
+
+
 # Sascha R. Klement
 
 ### Backend-Focussed Python/Django Developer · Educator · Researcher
