@@ -11,7 +11,7 @@
 
 [![Festive Front-End Hackathon 2025, 3rd place badge](https://badges.parchment.eu/public/assertions/s9Ccj8MzREaBZZz7nqHthw/image)](https://api.eu.badgr.io/public/assertions/s9Ccj8MzREaBZZz7nqHthw)
 
-### 📜 Certificates
+### 📜 Additional Certificates
 
 | Course | Issuer | Date |
 |---|---|---|
