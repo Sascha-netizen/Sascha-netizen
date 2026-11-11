@@ -1,4 +1,4 @@
-### 🎓 Diploma
+### 🎓 Code Institute Diploma
 
 ![CI Diploma](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/186480064)
 
@@ -20,6 +20,7 @@
 | React Foundations for Next.js | Vercel | Nov 2026 |
 
 <img src="https://github.com/user-attachments/assets/974b1c51-d060-4004-a59b-0ddc96b888fa" width="450" alt="React Foundations for Next.js certificate">
+
 
 # Sascha R. Klement
 
