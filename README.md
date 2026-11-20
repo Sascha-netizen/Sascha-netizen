@@ -26,16 +26,6 @@
 
 <br>
 <br>
-
-| Course | Issuer | Date |
-|---|---|---|
-| React Foundations for Next.js | Vercel | Nov 2026 |
-
-<img src="https://github.com/user-attachments/assets/974b1c51-d060-4004-a59b-0ddc96b888fa" width="450" alt="React Foundations for Next.js certificate">
-
-<br>
-<br>
-
 # Sascha R. Klement
 
 ### Backend-Focussed Python/Django Developer · Educator · Researcher
