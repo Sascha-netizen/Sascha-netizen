@@ -126,12 +126,13 @@ I'm a Python/Django developer with a background in education and academic resear
 
 `Python` `Django` `PostgreSQL` `JavaScript` `HTML` `CSS` `Git` `AWS S3` `Stripe` `R/RStudio`
 
+**Currently learning:** `React` `Next.js` `TypeScript`
+
 - Building full-stack web applications with Django
 - Working with relational databases and structured data
 - Developing scalable backend logic and clean project architecture
 
 ---
-
 ## 🌍 Interests
 
 **Development**
