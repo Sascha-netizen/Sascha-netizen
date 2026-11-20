@@ -24,9 +24,6 @@
 
 <img src="https://github.com/user-attachments/assets/974b1c51-d060-4004-a59b-0ddc96b888fa" width="450" alt="React Foundations for Next.js certificate">
 
-
-<img width="6815" height="4149" alt="dashboard-app-certificate-1" src="https://github.com/user-attachments/assets/8bb4f95f-6c96-420c-9a4e-a91344c350de" />
-
 <br>
 <br>
 
