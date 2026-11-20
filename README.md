@@ -1,6 +1,8 @@
 ### 🎓 Code Institute Diploma
 
 ![CI Diploma](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/186480064)
+<br>
+<br>
 
 ### 🏆 Hackathons
 
@@ -20,7 +22,10 @@
 | Next.js App Router Fundamentals | Vercel | Nov 2026 |
 | React Foundations for Next.js | Vercel | Nov 2026 |
 
-<img src="IMAGE-URL-1" width="450" alt="Next.js App Router Fundamentals certificate">
+
+
+
+<img src="https://github.com/user-attachments/assets/c87f756a-6d66-4476-83d6-e069c2652edc" width="450" alt="Next.js App Router Fundamentals certificate">
 
 <img src="https://github.com/user-attachments/assets/974b1c51-d060-4004-a59b-0ddc96b888fa" width="450" alt="React Foundations for Next.js certificate">
 
